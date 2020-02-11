@@ -1,0 +1,36 @@
+body {
+  background-color: #DFBF20;
+  
+}
+
+.img{
+	height: 20%;
+	width: 20%;
+}
+
+
+h1 {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+p {
+	font-size: 30px;
+	font-style: italic;
+	font-family: arial;
+	text-align : center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+text{
+	stroke:white;
+}
+rect{
+	stroke:white;
+	fill: #DFBF20;
+}
